@@ -1,0 +1,10 @@
+{
+  "domain": "modem_vivo",
+  "name": "Modem Vivo",
+  "codeowners": ["@rspadim"],
+  "config_flow": true,
+  "documentation": "https://github.com/rspadim/modem-vivo-homeassistant-hacs",
+  "iot_class": "local_polling",
+  "requirements": ["requests>=2.31.0"],
+  "version": "0.1.0"
+}

@@ -1,0 +1,10 @@
+DOMAIN = "modem_vivo"
+
+CONF_IP = "ip"
+CONF_USUARIO = "usuario"
+CONF_SENHA = "senha"
+
+DEFAULT_IP = "192.168.0.1"
+DEFAULT_USUARIO = "admin"
+DEFAULT_SENHA = ""
+DEFAULT_SCAN_INTERVAL_SECONDS = 30
